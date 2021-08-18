@@ -1,4 +1,4 @@
-<img src="vsekai_logo1.png" align="right" width="10%">
+<img src="vsekai_logo1.png" align="right" width="10%"><caption>Wednesday, Aug. 18, 2021 6:00 GMT</caption>
      
 ## English | [日本語](a-statement-on-the-walled-metaverse-ja.md)
 
@@ -24,6 +24,7 @@ Our group has worked on many [MIT Licensed](https://opensource.org/licenses/MIT)
 
 ## What happened?
 
+<div align="right">Aug. 16, 2021</div>
 <img align="right" src="./vsekai_booth_gone.png" width="50%">
 
 On the 10th of August, prior to the public venue opening, we received a message from Virtual Market support informing us that VRChat, Inc. deemed our booth to be in violation of VRChat’s terms. Specifically, they saw it as advertising a competing platform. From our perspective, it would be inaccurate to claim V-Sekai is a platform at present. Nevertheless, we made significant changes to our booth to focus solely on our open-source community work for the Godot Engine.
@@ -41,6 +42,7 @@ V-Sekai began with the goal to create a fully capable open-source VR tech stack 
 
 ## In Conclusion
 
+<div align="right">Aug. 14, 2021</div>
 <img align="right" src="./vsekai_group_photo.png" width="50%">
 
 We call on anyone who shares our values to [join us on Discord](https://discord.gg/2YwPmnbqcN). Get involved with the weekly meetings with the [Open Metaverse Interoperability group](https://github.com/omigroup/OMI) [on Discord](https://discord.gg/NJtT9grz5E) and [on GitHub](https://github.com/omigroup/OMI). If you’re interested in the future of our projects, check out our links below or send us a message at our contact info below:
