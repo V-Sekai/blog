@@ -6,7 +6,7 @@
 
 <br clear="all"><img align="right" src="./booth_dev1.png" width="20%">
 
-８月14日、Virtual Market 6 という仮想世界への扉が開きました。このイベントは恐らく世界最大の VR 展示会で、過去の Virtual Market における来場者は数十万人にもおよびます。今回も以前と同様に、メインイベントは巨大なソーシャル VR プラットフォームである「VRChat」上で独占的に行われました。Virtual Market という名前の通り、販売を主軸としたイベントではありますが、多くのオープンソースプロジェクトや無料の商品の展示も行われています。
+８月14日、[Virtual Market 6](https://vket6.v-market.work/) という仮想世界への扉が開きました。このイベントは恐らく世界最大の VR 展示会で、過去の Virtual Market における来場者は数十万人にもおよびます。今回も以前と同様に、メインイベントは巨大なソーシャル VR プラットフォームである「VRChat」上で独占的に行われました。Virtual Market という名前の通り、販売を主軸としたイベントではありますが、多くのオープンソースプロジェクトや無料の商品の展示も行われています。
 
 <br clear="all"><img align="right" src="./booth_dev2.png" width="20%">
 
@@ -20,7 +20,7 @@
 
 ## Virtual Market とは？
 
-Virtual Market は、数百にも上る個人製作者や企業が出展する大規模な VR 展示会です。日本では [Hikky Inc.](https://www.hikky.life/) が運営しており、彼らはインディーズゲームの展示会である「[GameVket](https://game.vket.com/)」やインディーズ音楽の展示会である「[MusiVket](https://music.vket.com/)」などの姉妹イベントも運営しています。
+[Virtual Market](https://v-market.work/) は、数百にも上る個人製作者や企業が出展する大規模な VR 展示会です。日本では [Hikky Inc.](https://www.hikky.life/) が運営しており、彼らはインディーズゲームの展示会である「[GameVket](https://game.vket.com/)」やインディーズ音楽の展示会である「[MusiVket](https://music.vket.com/)」などの姉妹イベントも運営しています。
 
 ## 何が起こったの？
 
