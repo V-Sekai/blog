@@ -31,8 +31,8 @@ On the 10th of August, prior to the public venue opening, we received a message 
 Though we examined VRChat's terms, we weren't able to find the term we violated, nor any remark on other platforms. We attempted to reach out to the VRChat team for clarification, but they would not communicate with us directly. Instead, we were told that "promoting another platform is not allowed by our terms" and moreover that there was no room for further debate over whether we were even promoting another platform or not. 
 
 Though at first we understood that the issue was the wording of the front board, it turned out that that was not enough for VRChat, and they demanded the full removal of the booth. With VRChat retaining ultimate control over whether a venue is allowed to exist on the platform, Virtual Market was left with no choice but to remove our booth. 
-
 <br clear="all">
+
 ## Our Statement
 
 Platform holders have the legal right to control what’s on their platform, but when they wield their power to stifle the wider open source community, it creates a chilling effect that prevents free sharing of ideas and innovation. As a project which provides open-source tools for Godot developers and the wider VR community, this is something we are deeply concerned about.
