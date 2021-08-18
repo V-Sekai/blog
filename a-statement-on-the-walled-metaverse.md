@@ -2,7 +2,7 @@
      
 ## English | [日本語](a-statement-on-the-walled-metaverse-ja.md)
 
-# A statement on The Walled Metaverse
+# A Statement on The Walled Metaverse
 
 <br clear="all"><img align="right" src="./booth_dev1.png" width="20%">
 
