@@ -44,9 +44,9 @@ V-Sekai は、試験運用が十分に可能なオープンソースの VR 技�
 
 <div align="right">2021年08月14日</div><img align="right" src="./vsekai_group_photo.png" width="50%">
 
-私たちは、私たちと価値観を共有できる人に[私たちの Discord サーバーへの参加](https://discord.gg/2YwPmnbqcN)を呼びかけています。また、[Open Metaverse Interoperability](https://github.com/omigroup/OMI) グループが毎週行っている [Discord](https://discord.gg/NJtT9grz5E) や [GitHub](https://github.com/omigroup/OMI) のミーティングも覗いてみてください。そして、もしあなたが私たちのプロジェクトの行く末に興味を持ったのであれば、下記のリンク先をご覧になるか、下記の連絡先までメッセージをお送りください：
+私たちは、私たちと価値観を共有できる人に[V-Sekai の Discord サーバーへの参加](https://discord.gg/2YwPmnbqcN)を呼びかけています。また、[Open Metaverse Interoperability](https://github.com/omigroup/OMI) グループが毎週行っている [Discord](https://discord.gg/NJtT9grz5E) や [GitHub](https://github.com/omigroup/OMI) のミーティングも覗いてみてください。そして、もしあなたが私たちのプロジェクトの行く末に興味を持ったのであれば、下記のリンク先をご覧になるか、下記の連絡先までメッセージをお送りください：
 
-* ツイーターはこちら： https://twitter.com/VSekaiOfficial
+* ツイッターはこちら： https://twitter.com/VSekaiOfficial
 * GitHub はこちら： https://github.com/V-Sekai/
 * 私たちのサイト： https://v-sekai.org
 * Discord： https://discord.gg/2YwPmnbqcN
