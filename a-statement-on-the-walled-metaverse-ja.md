@@ -20,7 +20,7 @@
 
 ## Virtual Market とは？
 
-[Virtual Market](https://v-market.work/) は、数百にも上る個人製作者や企業が出展する大規模な VR 展示会です。日本では [Hikky Inc.](https://www.hikky.life/) が運営しており、彼らはインディーズゲームの展示会である「[GameVket](https://game.vket.com/)」やインディーズ音楽の展示会である「[MusiVket](https://music.vket.com/)」などの姉妹イベントも運営しています。
+[Virtual Market](https://v-market.work/) は、数百にも上る個人製作者や企業が出展する大規模な VR 展示会です。日本では [Hikky Inc.](https://www.hikky.life/) が運営しており、彼らはインディーズゲームの展示会である「[GameVket](https://game.vket.com/)」やインディーズ音楽の展示会である「[MusicVket](https://music.vket.com/)」などの姉妹イベントも運営しています。
 
 ## 何が起こったの？
 
